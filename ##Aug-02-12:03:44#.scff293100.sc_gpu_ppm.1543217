@@ -1,0 +1,24 @@
++-----------------------------------------------------------------------------+
+| Logfile        : ##Aug-02-12:03:44#.scff293100.sc_gpu_ppm.1543217           |
+| Job id         : 1543217                    Class: (SLES15&&GPU) && (!HIGHMEM) Qslot: /pesg/ddi|
+| User           : abalusan                   Full Id: sc_gpu_ppm.1543217     |
+| Class Reservation : cores=1,general_ramp=1:duration=60s,gpus=1,memory=8     |
+| Executed on    : scff293100                 Pool : sc_gpu_ppm               |
+| Queueing time  : Thu Aug  1 21:44:15 2024                                   |
+| Starting time  : Fri Aug  2 12:03:46 2024          Qwait:  14h:19m:31s      |
+| Command        : csh                                                        |
++-----------------------------------------------------------------------------+
++-----------------------------------------------------------------------------+
+| Exit Status    : -13                                                        |
+  NB: Job killed by super user request
+| Finishing time : Mon Aug  5 11:25:19 2024                                   |
+| CPU time       : Usr 0.14s   Sys 0.15s   WC  71h:21m:33s                     |
+| Rusage Stats   : Mem:2      PF:  40185/0   CSv/f:  0/0     Swaps:0          |
+|                :           Msg:    0/0     IOops:  0/0     Sigs :0          |
+| User Groups    : hdk7nm, hdk7nmproc, hdk22nm, soc, n7, ipx_general_user,    |
+|                : ip7nm, n7fe, mp_tech_n7, n5, tyc78, tyc78proc, cicg, n6,   |
+|                : n6fe, i1278proc, i1278, ip5nm, intelall, dmrprj, corprj,   |
+|                : cwf7nm4, cwfprj, cwfctop, cwfcbase, coralprj, snpscopilot, |
+|                : soc73, hdk10nm, hdk10nmproc                                |
+| Actual Class Reservation : cores=1,general_ramp=1:duration=60s,gpus=1,memory=8|
++-----------------------------------------------------------------------------+
